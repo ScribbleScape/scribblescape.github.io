@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/ScribbleScape/scribblescape.github.io#readme",
   "dependencies": {
-    "http-server": "^0.12.1",
+    "http-server": "^0.12.3",
     "presskit": "^0.13.0"
   }
 }
