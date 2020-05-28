@@ -31,17 +31,19 @@ Experience the joy of doing even the most mundane chores together, and grieve wi
 </description>
 
   <!-- Choose between a single block: -->
-  <history>This is Reality came out of Castle Jam 2018, where we won Best Story and Best Overall Game. The theme was multi faceted, with the main theme being Capricious, and we additionally chose the art theme Watercolour.</history>
+  <!-- <history></history> -->
 
   <!-- Or multiple blocks: -->
-  <!--
+  
   <histories>
     <history>
-      <header></header>
-      <text></text>
+      <text>This is Reality came out of Castle Jam 2018, where we won Best Story and Best Overall Game. The theme was multi faceted, with the main theme being Capricious, and we additionally chose the art theme Watercolour.</text>
+    </history>
+    <history>
+      <text>We were awarded funding from UK Games Fund in 2020.</text>
     </history>
   </histories>
-  -->
+ 
 
   <features>
     <feature>Their relationship is part of the game, where their level of cooperation depends on how connected they are.</feature>
