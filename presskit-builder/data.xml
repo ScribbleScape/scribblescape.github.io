@@ -5,7 +5,7 @@
   <founding-date>2020</founding-date>
   <website>https://ScribbleScape.com</website>
   <press-contact>
-    Press@ScribbleScape.com
+    press@ScribbleScape.com
   </press-contact>
 
   <!-- Google analytics ID: -->
@@ -111,14 +111,19 @@
 
   <credits>
     <credit>
+      <person>Caroline Clark</person>
+      <role>Game Designer/Programmer</role>
+      <website>https://liney.io</website>
+    </credit>
+    <credit>
       <person>Ryan Loader</person>
       <role>Game Designer/Lead Artist</role>
       <website>https://ryanloader.me</website>
     </credit>
     <credit>
-      <person>Caroline Clark</person>
-      <role>Game Designer/Programmer</role>
-      <website>https://liney.io</website>
+      <person>Laurie James</person>
+      <role>Freelance Programmer</role>
+      <website>https://lauriegames.me</website>
     </credit>
   </credits>
 

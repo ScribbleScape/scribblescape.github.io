@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <product>
   <title>This is Reality</title>
-  <release-dates><release-date>Early 2022</release-date></release-dates>
+  <release-dates><release-date>2022</release-date></release-dates>
   <website>https://scribblescape.com</website>
 
   <!-- Link to request press copy: -->
@@ -40,7 +40,7 @@ Experience the joy of doing even the most mundane chores together, and grieve wi
       <text>This is Reality came out of Castle Jam 2018, where we won Best Story and Best Overall Game. The theme was multi faceted, with the main theme being Capricious, and we additionally chose the art theme Watercolour.</text>
     </history>
     <history>
-      <text>In 2020, we were awarded funding from UK Games Fund, and were a finalist for UK Game of the Show.</text>
+      <text>In 2020, we were awarded funding from UK Games Fund, and were a finalist for UK Game of the Show, and were part of the Elevate 2020 cohort, the GDC relief fund accelerator.</text>
     </history>
   </histories>
  
@@ -103,7 +103,7 @@ Experience the joy of doing even the most mundane chores together, and grieve wi
     <award>
       <description>Finalist for UK Games of the Show 2020</description>
       <info>Competition to see who would represent the UK at gamescom</info>
-      <!-- <image></image> -->
+      <!-- <image>../images/Finalist.png</image> -->
       <!-- <info>https://ukie.org.uk/news/2020/07/uk-game-show-games-announced</info> -->
     </award>
   </awards>
@@ -124,9 +124,9 @@ Experience the joy of doing even the most mundane chores together, and grieve wi
       <link>https://ukgamesfund.com/funded-project/this-is-reality/</link>
     </additional>
     <additional>
-      <title>Finalist for UK Games of the Show 2020</title>
+      <title>Part of the Elevate 2020 cohort</title>
       <description></description>
-      <link>https://ukie.org.uk/event/2020/08/24/uk-game-show-gamescom</link>
+      <link>https://elevate2020.games/</link>
     </additional>
   </additionals>
 
@@ -140,6 +140,11 @@ Experience the joy of doing even the most mundane chores together, and grieve wi
       <person>Ryan Loader</person>
       <role>Game Designer/Lead Artist</role>
       <website>https://ryanloader.me/</website>
+    </credit>
+    <credit>
+      <person>Laurie James</person>
+      <role>Game Programmer</role>
+      <website>https://lauriegames.me/</website>
     </credit>
     <credit>
       <person>Matt Radbourne</person>
@@ -158,7 +163,7 @@ Experience the joy of doing even the most mundane chores together, and grieve wi
       <name>Caroline Clark</name>
 
       <!-- Pick one: -->
-      <mail>Press@ScribbleScape.com</mail>
+      <mail>press@ScribbleScape.com</mail>
       <link></link>
     </contact>
   </contacts>
