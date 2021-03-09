@@ -105,10 +105,14 @@
     var settings = {
       // Images (in the format of 'url': 'alignment').
       images: {
+        "images/this-is-reality-bg01.png": "center",
+        "images/this-is-reality-bg02.png": "center",
+        "images/this-is-reality-bg04.png": "center",
+        "images/this-is-reality-bg05.png": "center",
         "images/bg01.png": "center",
-        "images/bg02.png": "center",
-        "images/bg03.png": "center",
-        "images/bg04.png": "center",
+        // "images/bg02.png": "center",
+        // "images/bg03.png": "center",
+        // "images/bg04.png": "center",
         "images/bg05.png": "center",
         "images/bg06.png": "center",
       },
