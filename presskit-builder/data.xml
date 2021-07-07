@@ -5,7 +5,7 @@
   <founding-date>2020</founding-date>
   <website>https://ScribbleScape.com</website>
   <press-contact>
-    press@ScribbleScape.com
+    press@scribblescape.com
   </press-contact>
 
   <!-- Google analytics ID: -->
@@ -72,9 +72,9 @@
       <name></name>
 
       <!-- Pick one: -->
-      <!-- <youtube>
-        i-32DzwMo6g
-      </youtube> -->
+      <youtube>
+        -rFjXAWEIUs
+      </youtube>
       <!-- <vimeo> -->
         <!-- Video ID only, not the full URL -->
       <!-- </vimeo> -->
@@ -136,7 +136,7 @@
       <name>Caroline Clark</name>
 
       <!-- Pick one: -->
-      <mail>Press@ScribbleScape.com</mail>
+      <mail>press@scribblescape.com</mail>
       <!-- <link></link> -->
     </contact>
   </contacts>
