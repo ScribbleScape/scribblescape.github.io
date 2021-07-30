@@ -66,10 +66,10 @@ Experience the joy of doing even the most mundane chores together, and grieve wi
 
   <!-- You can set your widgets here (optional): -->
   <widgets>
-    <!-- <steam> -->
+    <steam>
       <!-- Steam ID -->
-      <!-- e.g. 424242 -->
-    <!-- </steam> -->
+      1705380
+    </steam>
     <!-- <humble> -->
       <!-- Humble Bundle product/id -->
       <!-- e.g. mysupergame/42AAbB42dC -->
