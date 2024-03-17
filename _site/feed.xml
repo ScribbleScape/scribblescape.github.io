@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2024-03-17T23:31:54+01:00</updated>
+  <id>http://localhost:4000/</id>
+
+  
+    <title type="html">ScribbleScape</title>
+  
+
+  
+    <subtitle>Game studio making beautiful games.</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">Cracks</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Cracks" />
+      <published>2024-03-17T00:00:00+01:00</published>
+      <updated>2024-03-17T00:00:00+01:00</updated>
+      <id>http://localhost:4000/cracks</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Shards Between Us</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Shards Between Us" />
+      <published>2024-03-17T00:00:00+01:00</published>
+      <updated>2024-03-17T00:00:00+01:00</updated>
+      <id>http://localhost:4000/shards-between-us</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+  <title>Cracks</title>
+  <release-dates><release-date>Jan 2023</release-date></release-dates>
+  <website>https://scribblescape.com</website>
+
+  <!-- Link to request press copy: -->
+  <press-copy-request></press-copy-request>
+
+  <platforms>
+    <platform>
+      <name>PC</name>
+      <!-- <link></link> -->
+    </platform>
+  </platforms>
+
+  <prices>
+    <price>
+      <currency></currency>
+      <value>£9.99</value>
+    </price>
+  </prices>
+
+  <description>
+  Cracks is a single player side-scrolling platformer following the couple Liam and Lana, as they navigate the highs, lows and struggles of their relationship. Their relationship is part of the game, where their level of cooperation depends on how connected they are.
+
+Join them on their adventures through the city of London and learn how you can overcome the biggest obstacles as a team, whether it’s dealing with overbearing store clerks, or finding seats together on the tube.
+
+Experience the joy of doing even the most mundane chores together, and grieve with them when their arguments turn ugly and they are unable to work together on the smallest task.
+
+</description>
+
+  <!-- Choose between a single block: -->
+  <!-- <history></history> -->
+
+  <!-- Or multiple blocks: -->
+  
+  <histories>
+    <history>
+      <text>Cracks came out of Castle Jam 2018, where we won Best Story and Best Overall Game. The theme was multi faceted, with the main theme being Capricious, and we additionally chose the art theme Watercolour.</text>
+    </history>
+    <history>
+      <text>In 2020, we were awarded funding from UK Games Fund, and were a finalist for UK Game of the Show, and were part of the Elevate 2020 cohort, the GDC relief fund accelerator.</text>
+    </history>
+  </histories>
+ 
+
+  <features>
+    <feature>Their relationship is part of the game, where their level of cooperation depends on how connected they are.</feature>
+    <!-- <feature>Side scrolling platformer</feature> -->
+  </features>
+
+  <trailers>
+    <trailer>
+      <name></name>
+
+      <!-- Pick one: -->
+      <youtube>
+        -rFjXAWEIUs
+      </youtube>
+      <!-- <vimeo> -->
+        <!-- Video ID only, not the full URL -->
+      <!-- </vimeo> -->
+    </trailer>
+  </trailers>
+
+  <!-- You can set your widgets here (optional): -->
+  <widgets>
+    <steam>
+      <!-- Steam ID -->
+      1705380
+    </steam>
+    <!-- <humble> -->
+      <!-- Humble Bundle product/id -->
+      <!-- e.g. mysupergame/42AAbB42dC -->
+    <!-- </humble> -->
+    <itch>
+      <!-- itch.io ID -->
+      <!-- e.g. 42424 -->
+      949129
+    </itch>
+    <!-- <mailchimp>//url.us3.list-manage.com/subscribe/post?u=USER_ID&amp;id=LIST_ID</mailchimp> -->
+    <mailchimp>//scribblescape.us8.list-manage.com/subscribe/post?u=029fc1e182e97053e72bb1d2c&amp;id=c492510551</mailchimp>
+    <!-- <gamejolt> -->
+      <!-- Game Jolt package ID -->
+      <!-- e.g. 4AbCd2Ef -->
+    <!-- </gamejolt> -->
+    <!-- <bandcamp> -->
+      <!-- Bandcamp ID -->
+      <!-- e.g. 4242424242 -->
+    <!-- </bandcamp> -->
+  </widgets>
+
+  <awards>
+    <award>
+      <description>Best Story Award</description>
+      <info>Castle Jam 2018</info>
+    </award>
+    <award>
+      <description>Best Overall Game Award</description>
+      <info>Castle Jam 2018</info>
+    </award>
+    <award>
+      <description>Finalist for UK Games of the Show 2020</description>
+      <info>Competition to see who would represent the UK at gamescom</info>
+      <!-- <image>../images/Finalist.png</image> -->
+      <!-- <info>https://ukie.org.uk/news/2020/07/uk-game-show-games-announced</info> -->
+    </award>
+  </awards>
+
+  <quotes>
+    <quote>
+      <description>This is Reality is a very touching platformer full of meaning</description>
+      <name>Jupiter Hadley</name>
+      <website>Rock Paper Shotgun</website>
+      <link>https://www.rockpapershotgun.com/2018/08/11/free-games-of-the-week-august-11th-2018/</link>
+    </quote>
+  </quotes>
+
+  <additionals>
+    <additional>
+      <title>Awarded funding from UK Games Fund</title>
+      <description></description>
+      <link>https://ukgamesfund.com/funded-project/this-is-reality/</link>
+    </additional>
+    <additional>
+      <title>Part of the Elevate 2020 cohort</title>
+      <description></description>
+      <link>https://elevate2020.games/</link>
+    </additional>
+    <additional>
+      <title>London Games Festival 2021 showcase </title>
+      <description></description>
+      <link>https://games.london/</link>
+    </additional>
+  </additionals>
+
+  <credits>
+    <credit>
+      <person>Caroline Clark</person>
+      <role>Game Designer/Programmer</role>
+      <website>https://liney.io</website>
+    </credit>
+    <credit>
+      <person>Ryan Loader</person>
+      <role>Game Designer/Lead Artist</role>
+      <website>https://ryanloader.me/</website>
+    </credit>
+    <credit>
+      <person>Laurie James</person>
+      <role>Game Programmer</role>
+      <website>https://lauriegames.me/</website>
+    </credit>
+    <credit>
+      <person>Scott James</person>
+      <role>Musician</role>
+    </credit>
+    <credit>
+      <person>Matt Radbourne</person>
+      <role>Musician</role>
+      <website>https://radbourne.net/</website>
+    </credit>
+    <credit>
+      <person>Aaron Muir</person>
+      <role>Programmer</role>
+      <website>https://www.linkedin.com/in/aaronmuir/</website>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>Caroline Clark</name>
+
+      <!-- Pick one: -->
+      <mail>press@scribblescape.com</mail>
+      <link></link>
+    </contact>
+  </contacts>
+</product>

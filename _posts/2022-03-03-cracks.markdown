@@ -1,0 +1,14 @@
+---
+layout: default
+title: Cracks
+modal-id: 1
+date: 2024-03-17
+img: cracks-key-art.png
+alt: image-alt
+project-date: 2020 - 2022
+# game: Cracks
+description: Cracks is a relationship platformer about a relationship gone wrong. Cracks came out of Castle Jam 2018, where we won Best Story and Best Overall Game. In 2020, we were awarded funding from UK Games Fund, and were a finalist for UK Game of the Show, and were part of the Elevate 2020 cohort, the GDC relief fund accelerator. 
+# steam_url: https://store.steampowered.com/widget/1705380/Cracks/
+itch_url: https://itch.io/embed/949129
+youtube: https://www.youtube.com/embed/-rFjXAWEIUs?si=7VD83eJOavho77QJ
+---

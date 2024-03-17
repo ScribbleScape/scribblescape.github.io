@@ -1,0 +1,12 @@
+#scribblescapeHeader {
+  margin-bottom: 2em;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+div#scribblescapeHeader {
+  font-size: 1.2em;
+}
+
+div#scribblescapeSubtext {
+  margin-bottom: 0.7em;
+}

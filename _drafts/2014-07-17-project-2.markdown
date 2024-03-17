@@ -1,0 +1,12 @@
+---
+layout: default
+title: Cartomancy Anthology
+modal-id: 2
+date: 2014-07-17
+img: castle-of-glas.png
+alt: image-alt
+project-date: December 2021 - July 2022
+# client: Start Bootstrap
+# category: Web Development
+description: ScribbleScape codeveloped with Queensguard and Compact on Cartomancy Anthology, an ambitious cooperative group of experimental artistic games, made in 6 months. We released our narrative puzzle game Castle of Glas, a story of a young woman coming home to fix her relationship with her mother.
+---
